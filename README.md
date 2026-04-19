@@ -26,7 +26,7 @@ Projeto desenvolvido com dedicação pela equipe:
 ## 🌐 Acesso ao Site (GitHub Pages)
 O projeto está online e funcionando! Você pode acessá-lo através do link abaixo:
 
-👉 **[https://github.com/FranciscoURL/Portal-Tur-stico.gi](https://github.com/FranciscoURL/portal-turistico.git)**
+👉 **https://github.com/FranciscoURL/portal-turistico.git**
 
 ---
 *Projeto desenvolvido para fins acadêmicos | 2026*
